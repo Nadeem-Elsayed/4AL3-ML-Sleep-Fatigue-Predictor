@@ -1,28 +1,40 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{5}
 \providecommand{\natexlab}[1]{#1}
 
-\bibitem[{Ando and Zhang(2005)}]{Ando2005}
-Rie~Kubota Ando and Tong Zhang. 2005.
-\newblock A framework for learning predictive structures from multiple tasks
-  and unlabeled data.
-\newblock \emph{Journal of Machine Learning Research}, 6:1817--1853.
+\bibitem[{{CBC News}(2026)}]{cbc2026}
+{CBC News}. 2026.
+\newblock Kids and young adults are addicted to screens. {N}ew research argues
+  it may be a public health concern.
+\newblock
+  \url{https://www.cbc.ca/news/health/youth-screen-time-tech-companies-9.7365434}.
 
-\bibitem[{Andrew and Gao(2007)}]{andrew2007scalable}
-Galen Andrew and Jianfeng Gao. 2007.
-\newblock Scalable training of {L1}-regularized log-linear models.
-\newblock In \emph{Proceedings of the 24th International Conference on Machine
-  Learning}, pages 33--40.
+\bibitem[{{Newswise}(2026)}]{newswise2026}
+{Newswise}. 2026.
+\newblock Over three-fourths of {A}mericans lose sleep due to digital
+  distractions -- sleep experts urge a change.
+\newblock
+  \url{https://www.newswise.com/articles/over-three-fourths-of-americans-lose-sleep-due-to-digital-distractions-sleep-experts-urge-a-change}.
 
-\bibitem[{Gusfield(1997)}]{Gusfield:97}
-Dan Gusfield. 1997.
-\newblock \emph{Algorithms on Strings, Trees and Sequences}.
-\newblock Cambridge University Press, Cambridge, UK.
+\bibitem[{Paruthi et~al.(2016)Paruthi, Brooks, D'Ambrosio, Hall, Kotagal,
+  Lloyd, Malow, Maski, Nichols, Quan et~al.}]{paruthi2016recommended}
+Shalini Paruthi, Lee~J. Brooks, Carolyn D'Ambrosio, Wendy~A. Hall, Suresh
+  Kotagal, Robin~M. Lloyd, Beth~A. Malow, Kiran Maski, Cynthia Nichols,
+  Stuart~F. Quan, and 1 others. 2016.
+\newblock Recommended amount of sleep for pediatric populations: A consensus
+  statement of the {American Academy of Sleep Medicine}.
+\newblock \emph{Journal of Clinical Sleep Medicine}, 12(6):785--786.
 
-\bibitem[{Rasooli and Tetreault(2015)}]{rasooli-tetrault-2015}
-Mohammad~Sadegh Rasooli and Joel~R. Tetreault. 2015.
-\newblock \href {http://arxiv.org/abs/1503.06733} {Yara parser: {A} fast and
-  accurate dependency parser}.
-\newblock \emph{Computing Research Repository}, arXiv:1503.06733.
-\newblock Version 2.
+\bibitem[{Perez-Lloret and Perez-Chada(2022)}]{perez2022screen}
+Santiago Perez-Lloret and Daniel Perez-Chada. 2022.
+\newblock \href {https://doi.org/10.17632/pj9hzmp7ym.1} {Screen use, sleep
+  duration, daytime somnolence, and academic failure in school-aged
+  adolescents}.
+\newblock \emph{Mendeley Data, V1}.
+
+\bibitem[{Shah et~al.(2024)}]{shah2024effects}
+A.~S. Shah and 1 others. 2024.
+\newblock \href {https://doi.org/10.1177/155982762412116485} {Effects of sleep
+  deprivation on physical and mental health outcomes: An umbrella review}.
+\newblock \emph{American Journal of Lifestyle Medicine}.
 
 \end{thebibliography}
