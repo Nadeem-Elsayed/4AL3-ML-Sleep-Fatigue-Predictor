@@ -1,5 +1,21 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{11}
 \providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Alam et~al.(2023)Alam, Alshakhsi, Al-Thani, and Ali}]{alam2023}
+Aftab Alam, Sameha Alshakhsi, Dena Al-Thani, and Raian Ali. 2023.
+\newblock \href {https://doi.org/10.7717/peerj-cs.1261} {The role of
+  objectively recorded smartphone usage and personality traits in sleep
+  quality}.
+\newblock \emph{PeerJ Computer Science}, 9:e1261.
+
+\bibitem[{Carter et~al.(2016)Carter, Rees, Hale, Bhattacharjee, and
+  Paradkar}]{carter2016}
+Ben Carter, Philippa Rees, Lauren Hale, Darsharna Bhattacharjee, and Mandar~S.
+  Paradkar. 2016.
+\newblock \href {https://doi.org/10.1001/jamapediatrics.2016.2341} {Association
+  between portable screen-based media device access or use and sleep outcomes:
+  A systematic review and meta-analysis}.
+\newblock \emph{JAMA Pediatrics}, 170(12):1202--1208.
 
 \bibitem[{{CBC News}(2026)}]{cbc2026}
 {CBC News}. 2026.
@@ -7,6 +23,20 @@
   it may be a public health concern.
 \newblock
   \url{https://www.cbc.ca/news/health/youth-screen-time-tech-companies-9.7365434}.
+
+\bibitem[{Hale and Guan(2015)}]{hale2015}
+L.~Hale and S.~Guan. 2015.
+\newblock \href {https://doi.org/10.1016/j.smrv.2014.07.007} {Screen time and
+  sleep among school-aged children and adolescents: A systematic literature
+  review}.
+\newblock \emph{Sleep Medicine Reviews}, 21:50--58.
+
+\bibitem[{Machine Learning Approach()}]{sleep2024abstract}
+Machine Learning Approach. 2024.
+\newblock \href {https://doi.org/10.1093/sleep/zsae067.0815} {A machine
+  learning approach to identify factors associated with adolescent sleep
+  outcomes}.
+\newblock {SLEEP} (conference abstract).
 
 \bibitem[{{Newswise}(2026)}]{newswise2026}
 {Newswise}. 2026.
@@ -36,5 +66,22 @@ A.~S. Shah and 1 others. 2024.
 \newblock \href {https://doi.org/10.1177/155982762412116485} {Effects of sleep
   deprivation on physical and mental health outcomes: An umbrella review}.
 \newblock \emph{American Journal of Lifestyle Medicine}.
+
+\bibitem[{Simon et~al.(2024)Simon, Terhorst, Cohrdes, Pryss, Steinmetz
+  et~al.}]{simon2024}
+Laura Simon, Yannik Terhorst, Caroline Cohrdes, R{\"u}diger Pryss, Lisa
+  Steinmetz, and 1 others. 2024.
+\newblock \href {https://doi.org/10.1016/j.sleepx.2024.100114} {The predictive
+  value of supervised machine learning models for insomnia symptoms through
+  smartphone usage behavior}.
+\newblock \emph{Sleep Medicine: X}, 7:100114.
+
+\bibitem[{{SOM-12211285}(n.d.)}]{som2024}
+{SOM-12211285}. n.d.
+\newblock \href
+  {https://github.com/som-12211285/Sleep-Health-Digital-Screen-Exposure-Risk-Prediction}
+  {Sleep-health-digital-screen-exposure-risk-prediction}.
+\newblock GitHub repository.
+\newblock Accessed Oct. 8, 2026.
 
 \end{thebibliography}
