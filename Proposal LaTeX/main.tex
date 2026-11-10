@@ -76,7 +76,11 @@ Under this formula, positive values represent severe sleep loss (sleep debt), wh
 
 \section{Features}
 
-Describe any features you used for your model, or how your data was input to your model. Are you doing feature engineering or feature selection? Are you learning embeddings? Is it all part of one neural network? Refer to item 2. This may range from 0.25 pages to 0.5 pages.
+The model inputs are 13 numeric features selected from the 123 columns of the raw dataset: age, sex (coded 0 for female and 1 for male), body mass index (BMI), total daily screen time, daily hours spent on four screen activities (social media, video games, games on a phone or tablet, and TV or online video), and the number of days per week that each of five devices (cell phone, computer, tablet, game console and TV) is used. The two sleep durations are not inputs. They are used only to compute the targets, weekday and weekend sleep loss.
+
+Feature selection was performed manually. Variables unrelated to sleep and screen time (such as school performance and subjective fatigue responses) and variables that were hard to interpret or redundant were removed, so that the model is not crowded with parameters unlikely to affect the predicted outcome. Variables derived from the targets, such as social jetlag (weekend minus weekday sleep), were also excluded because they would leak the answer. Total screen time is correlated with the activity-level hours, since it includes them, and ridge regularization is used to handle this overlap.
+
+Feature engineering consisted of three steps. First, column names were translated and renamed. Second, missing activity-level hours and device-use days were filled with 0, interpreted as no use. Third, a degree-2 polynomial expansion was applied to the 13 inputs, producing 104 features: 13 linear terms, 13 squared terms and 78 pairwise interaction terms. This allows the model to capture non-linear effects and interactions, such as the combined effect of social media hours and phone use. The inputs are standardized (mean 0, standard deviation 1) before the expansion, using statistics from the training set only, so that the ridge penalty treats all terms equally. No embeddings or representation learning are used, and the model is not a neural network; the feature vectors are passed directly to scikit-learn regressors. Lasso regularization is planned as a data-driven form of feature selection, to identify which variables and interaction terms are unnecessary.
 
 \section{Model Implementation}
 \label{sec:impl}
