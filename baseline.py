@@ -8,7 +8,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 # 1. Load raw dataset
-print("Reading raw Mendeley dataset...", flush=True)
+print("Reading raw Mendeley dataset...")
 df = pd.read_excel("repositorio.xlsx")
 
 # Match columns dynamically to handle character encodings safely
