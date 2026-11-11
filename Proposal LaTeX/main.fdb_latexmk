@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1794359989.87357 "main.aux" "main.bbl" "main" 1794360726.05171 0
+["bibtex main"] 1794361073.06927 "main.aux" "main.bbl" "main" 1794361159.35001 0
   "./acl_natbib.bst" 1794337217 47126 3d1af46d62cc9172ef6e42b56c1cd613 ""
   "./custom.bib" 1794355834 5432 813686d7e33a032902c6d26ad7f9df62 ""
-  "main.aux" 1794360724 4215 b4021e5cf6edde13ce22736cf4eb96ce "pdflatex"
+  "main.aux" 1794361158 4215 be00ad3989ec57b560d8987bb0f14854 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1794360722.89531 "c:/Users/User/Desktop/MCMASTER/4th Year/SFWRENG 4AL3/Assignment/ModelAssignment/4AL3-ML-Sleep-Fatigue-Predictor/Proposal LaTeX/main.tex" "main.pdf" "main" 1794360726.0525 0
+["pdflatex"] 1794361156.95443 "c:/Users/User/Desktop/MCMASTER/4th Year/SFWRENG 4AL3/Assignment/ModelAssignment/4AL3-ML-Sleep-Fatigue-Predictor/Proposal LaTeX/main.tex" "main.pdf" "main" 1794361159.35083 0
   "C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1794357429 96374 e34a609d740918d9713f0419f99f996a ""
   "C:/Users/User/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1794090073 13333044 43bc1c1cceb339d34e0d637a8efa39a9 ""
   "C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -156,11 +156,11 @@
   "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/User/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
   "acl.sty" 1794337217 11927 e2c027f483aa40e577ed34264c8b0655 ""
-  "c:/Users/User/Desktop/MCMASTER/4th Year/SFWRENG 4AL3/Assignment/ModelAssignment/4AL3-ML-Sleep-Fatigue-Predictor/Proposal LaTeX/main.tex" 1794360721 17654 23922e803326b336ea4eeba88f44ef8b ""
-  "main.aux" 1794360724 4215 b4021e5cf6edde13ce22736cf4eb96ce "pdflatex"
-  "main.bbl" 1794359990 3991 54338ede52dc958d7d96d0e93795ff08 "bibtex main"
-  "main.out" 1794360724 2874 7c5ee778fc47512df484746ce2052e9b "pdflatex"
-  "main.tex" 1794360721 17654 23922e803326b336ea4eeba88f44ef8b ""
+  "c:/Users/User/Desktop/MCMASTER/4th Year/SFWRENG 4AL3/Assignment/ModelAssignment/4AL3-ML-Sleep-Fatigue-Predictor/Proposal LaTeX/main.tex" 1794361155 18310 ee728efb6d69aa999fd5c0c46b23ac3c ""
+  "main.aux" 1794361158 4215 be00ad3989ec57b560d8987bb0f14854 "pdflatex"
+  "main.bbl" 1794361073 3991 54338ede52dc958d7d96d0e93795ff08 "bibtex main"
+  "main.out" 1794361158 2874 7c5ee778fc47512df484746ce2052e9b "pdflatex"
+  "main.tex" 1794361155 18310 ee728efb6d69aa999fd5c0c46b23ac3c ""
   (generated)
   "main.aux"
   "main.log"
