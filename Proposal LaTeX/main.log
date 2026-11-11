@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.7)  10 NOV 2026 15:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.11.7)  10 NOV 2026 19:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -320,6 +320,9 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
+)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
@@ -585,39 +588,6 @@ Underfull \vbox (badness 7722) has occurred while \output is active []
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
 (Font)              scaled to size 10.0pt on input line 25.
 
-Underfull \hbox (badness 6808) in paragraph at lines 21--26
-[]\T1/ptm/m/n/10 (+20) CBC News. 2026.  Kids and young adults
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
-\T1/ptm/m/n/10 (+20) are ad-dicted to screens. New re-search
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
-\T1/ptm/m/n/10 (+20) ar-gues it may be a pub-lic health con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
-\T1/ptm/m/n/10 (+20) cern.  [][]$\T1/zi4/m/n/10 https : / / www . cbc . ca / ne
-ws / health /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--26
-\T1/zi4/m/n/10 youth-[]screen-[]time-[]tech-[]companies-[]9 .
- []
-
-
-Overfull \hbox (290.06389pt too wide) in paragraph at lines 42--47
-\T1/zi4/m/n/10 over-[]three-[]fourths-[]of-[]americans-[]lose-[]sleep-[]due-[]t
-o-[]digital-[]distractions-[]sleep-[]experts-[]urge-[]a-[]change$[][]\T1/ptm/m/
-n/10 (-20) . 
- []
-
-
 Underfull \hbox (badness 2027) in paragraph at lines 80--86
 []\T1/ptm/m/n/10 (+20) SOM-12211285. n.d.  [][]Sleep-health-digital-screen-
  []
@@ -627,19 +597,15 @@ Underfull \hbox (badness 2027) in paragraph at lines 80--86
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7C5EE778FC47512DF484746CE2052E9B;2874.
  ) 
 Here is how much of TeX's memory you used:
- 15412 strings out of 467870
- 245124 string characters out of 5418839
- 699790 words of memory out of 5000000
- 43795 multiletter control sequences out of 15000+600000
- 682276 words of font info for 255 fonts, out of 8000000 for 9000
+ 15440 strings out of 467870
+ 245775 string characters out of 5418839
+ 704091 words of memory out of 5000000
+ 43816 multiletter control sequences out of 15000+600000
+ 682406 words of font info for 257 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,13n,93p,1060b,518s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/User/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/I
@@ -662,9 +628,9 @@ onts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/User/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/User/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/User/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (4 pages, 243836 bytes).
+Output written on main.pdf (4 pages, 244655 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
+ 278 PDF objects out of 1000 (max. 8388607)
  47 named destinations out of 1000 (max. 500000)
  56441 words of extra memory for PDF output out of 61914 (max. 10000000)
 
